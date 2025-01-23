@@ -1,5 +1,5 @@
 # ProjektGitHub
-Testowy repozytorium do nauki GitHub
+
 
 ## Opis projektu
 Ten projekt został stworzony w celu nauki korzystania z platformy GitHub. W ramach tego repozytorium przećwiczymy takie funkcje, jak:
